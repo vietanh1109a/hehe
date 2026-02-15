@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "payload": {
+    "items": [
+      {
+        "id": "abc123",
+        "label": "Tài khoản 1",
+        "rawData": "... cookie JSON/Netscape/Raw ...",
+        "format": "manual",
+        "cookieCount": 5,
+        "addedAt": "2026-02-15 10:00"
+      }
+    ]
+  }
+}
