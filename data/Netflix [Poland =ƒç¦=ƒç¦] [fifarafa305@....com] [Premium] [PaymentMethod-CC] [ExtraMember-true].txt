@@ -1,0 +1,14 @@
+.netflix.com	TRUE	/	FALSE	1800224683	OptanonAlertBoxClosed	2026-01-17T22:24:43.056Z
+.netflix.com	TRUE	/	FALSE	1800224719	nfvdid	BQFmAAEBEIi6u8V7Jiq_tKPbQar8kNVg_6m54dB_G9wijXmiRAwG1WdjfmWNbySRi_C2RfEgLKEKHzRV8AnlmGvBuN33isfDWNYoFE7TjY95bASgGk3oNmrUPMwrndd0Gd3KO25xl9psbs_GOfdR0dyjh_FnMdYu
+.netflix.com	TRUE	/	TRUE	1801526988	NetflixId	ct%3DBgjHlOvcAxK8A7l0Kvmm0Vb-xugXwoClg5RuTfM2JjVoQelOnP0ppuKI94-6Xs4Q3yxiYUixLhSjDAw6zpbhtf2SNjJC0a0M5oZBtapfo_-z4N_7riNT34Ilg1wRvovb09_DTuGbj2Cp-p5WGJ_EN6SV-rWClZ1Zx5VEAt1pDADFnEtYT8l7ZPSSYK71lxlZvzh6BMNAAD88Jthf2eWBTe5AVO7ZbgFBHh3wJEp29347YF_IbONRLiTJ9EfbStCw-lNgI7meZi7fsYVBV9VEf2uB_Vu_a_ceFfeSPo97ljJnxrY3og0UtIHaBX2Y33naHtRUML_xsIDIppJKn-jcfBif2h0rGhexq2Zndur32CPF_vME4UWXiT4n4W5xXXtFudBO662NhJOUotS6MqeKbbB7zLKTsmqbL9LhrR_vlmVh1gBc_Un_8m4diucKmYc5Lwo3dubxM8bgxathLQZAnn_yVBe160RAmKWuH0jKHEZnbImrHzlZku1bSgX71wes5msn2HbY3PVBWSTIYEGWGwiF2aV5nFqclo7EH8uWvA56GS6i_tQTvkn7Txnz1jvE8CIsUUMQLKq8IYTeFGLUzCiRaLi5oxgGIg4KDAG7DXTiHUKS6EBWJA..%26ch%3DAQEAEAABABSMMC8ir3XNHRyKDUyxb93UICDnWmxwCBs.%26v%3D3%26pg%3DCPQ6BB7ID5FZDJBLMBUWXKZIIE
+.netflix.com	TRUE	/	TRUE	1770077388	gsid	83da1607-ccd1-4788-8756-c7de8f8d318d
+secured.netflix.com	FALSE	/	TRUE	1804551009	thx_guid	d746161b00feb27a9e9768036e148629
+.netflix.com	TRUE	/	FALSE	1801527041	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+02+2026+01%3A10%3A41+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=79929936-b1e6-4536-b317-82c6ac9a55d8&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768688683394&AwaitingReconsent=false&intType=1&geolocation=PL%3B14
+.netflix.com	TRUE	/	TRUE	1801526988	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRVQ4lyzfqn7g96MRx1IrltX1ndmXJKpkM.%26dt%3D1769990987126
+www.netflix.com	FALSE	/	FALSE	1787271029	didUserInteractWithPage	true
+.netflix.com	TRUE	/	TRUE	1804551041	dsca	true
+.netflix.com	TRUE	/	FALSE	1770001837	flwssn	238f1e84-b2d2-4f0f-bc90-857aef8e5ef1
+.netflix.com	TRUE	/	FALSE	1777767037	netflix-sans-bold-3-loaded	true
+secured.netflix.com	FALSE	/	TRUE	1804551037	tmx_guid	AAwTw72BtA49BlTOuThyXAjkgmkW4fNSF_-8EDngq-T1cvKevjOm3EthHF8Q8KHS4UIiffOKDLQPWL4Yl-Dm4TNdQCMAJQ
+.netflix.com	TRUE	/	FALSE	1769997839	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1777767037	netflix-sans-normal-3-loaded	true

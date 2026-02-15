@@ -1,0 +1,19 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: netflixu417@gmail.com
+– Verified: false
+– Profile: Gullu
+– Plan: Premium
+– Next billing: 1 March 2026
+– Extra members: false
+– Country: PK
+– Payments: 1 | CC (MASTERCARD 6058)
+– Cookies: C:\Users\Administrator\Downloads\Telegram Desktop\@UP_DAISYCLOUD_CHAMPIONING!_11_FEBRUARY_5751_ON_CHANNEL\TELEGRAM-@UP_DAISYCLOUD-UNN70IT3T1YGOO1E3RW1W3R4EXDSBEHL3_2026_02_11T11_56_32_714053\cookies\Google Chrome_Default.txt
+
+.netflix.com	TRUE	/	FALSE	1779800799	nfvdid	BQFmAAEBEPVmHKrL9419mJgi59t-oYFg7auVXOphdZKzESK-w70lRmW4NVavR0cGAbSsvROxOWBFizdCWU5a1Z_fauTfnyEcvlUXexKYZ0Roxtl-lsBSWcXoPQaU12bojV8b3_2_G3fokuBJ9X85rj51CF4Nd1TK
+.netflix.com	TRUE	/	TRUE	1801404604	NetflixId	ct%3DBgjHlOvcAxLmA5VoCz9PEy2WjWYL7CgbpufICLso4loMetpW6tvL88y9VjCkoEGeiQ-QwTTCf0zu8CMbalUXXR3J_08kvZLnbQiNKJBBegazYqYa-h46Rbwo39s2asRrYUN2GPWN6PHp3XxkmdbefyFT63idb5tubbg8WaGd9aOHm07DJIe-OybjpVexiKlWZgmMADqrMufJaXeb12CL6lw7Uv8-hXeLtZu7NQzTXfCZdI-wfBvy0eC5bmu8798XM-TvHIr9zEztsEZbSATxzx0Tuy9y7qgoOnZDKJFRGPGllkMLr2jFuNPry5YnZvIGs0ygcfg0IihlGi8M-tVhxVfSPZiGJ2-Yz6KwOJIGxeqww5AU7B9jfIfEWek1gkxbrOvzy94o8UUXTv87mMlhMCHQ3ettMK6nboUQSGcNnsxElTahdgmVLAXleZJL25ZN4vI43pgPb5TZaPKhb0AFHVFiTsMwmo3ZPR9Wapss-fQmz_GnYvYOIokc3wJ_rk5fCRWbT0psUgsuxcv5w2CBmxgzcFUE9TF98BzdVcGFfF2v7V58x3H8DqbWGbXHpfB6ixgp2bjwxp3O83FDSvBeH_1x7PNh9iPgGjycYGmidzupGraIkJ8k_5BeTTwFDJEEnuFssbgx7h_XaHOPhmGIsxgGIg4KDG80SJZzsxOMe_pmkg..%26ch%3DAQEAEAABABSp7Ejrf_idK5H6KJ7a5tbliGmcqiwTG8w.%26v%3D3%26pg%3DZL4AZRMFQJFODF66IS4T6NKXP4
+.netflix.com	TRUE	/	FALSE	1801404608	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+31+2026+19%3A10%3A08+GMT%2B0500+(Pakistan+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=054976a8-3138-4fdc-8646-b39a9a228717&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801404604	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRDLmyjnKU_SzCm8eDSHnX36gf5tFUHap0.%26dt%3D1769868770153
+.netflix.com	TRUE	/	FALSE	1777644605	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1777644605	netflix-sans-normal-3-loaded	true

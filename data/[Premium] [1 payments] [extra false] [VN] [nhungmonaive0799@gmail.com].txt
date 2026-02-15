@@ -1,0 +1,21 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: nhungmonaive0799@gmail.com
+– Verified: false
+– Profile: Trân\x20Nè
+– Plan: Premium
+– Next billing: 4 tháng 3, 2026
+– Extra members: false
+– Country: VN
+– Payments: 1 | MOBILE_WALLET (MOMOPAY *******2402)
+– Cookies: C:\Users\Administrator\Downloads\Telegram Desktop\@UP_DAISYCLOUD_CHAMPIONING!_11_FEBRUARY_5751_ON_CHANNEL\TELEGRAM-@UP_DAISYCLOUD-VNS61KPJDWQIOTBOSXCP8KA48DMW8I19E_2026_02_11T10_31_78_853803\coccoc\Default\Cookie.txt
+
+.netflix.com	TRUE	/	FALSE	1778091062	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1778091062	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798898395	nfvdid	BQFmAAEBEKm_rklv2kXo_KQR50oon-Rggeb-NDG5ehXP7UwCezZIeYsHLX0YzK-oCbq_kWRh6TBvCGOFygx3t0uBnpFknaSDflZMDKrxkqjORo3B9heU8OEc7buSq8FaR2u3tYwMLTBG-Wo4TET3qjco5-9-Z0pE
+.netflix.com	TRUE	/	TRUE	1801842196	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSM-b2mS9qVNL6gdlwPsqs_EQLaIjWBj2w.%26dt%3D1770306198772
+.netflix.com	TRUE	/	TRUE	1801842196	NetflixId	ct%3DBgjHlOvcAxLqA9NE65kcWIMc7KJT1hxZuaIm0i36zsEPpgOxoBvF5nXKh-RYoiLR4a_GGHmLDSo2qvbVPdd7BhvepkplMu8bA0C6zKpDRLZtbkYNuHZa7fJeiccCVmda5abMX8MzSiI-pqPivhIctq2Mc0YF0uznzFQJwNsMz1tPmAVvgMjH-eXinEkfv_8bRQmTQXwNMQecUEMJfkgM42ctgwfjRs59OuXGs67V5oXW2F9Ew18t9SPW4SPQ8iZsEX_u1CrQBxlLainV_c0891SHJ89FH2PcfAvJ9FlP-EgpzhFDv3i8FT0dAQYVn8z1vaKx6miK2EwlWnuZSOoqcWcp-HnuaQGIbg_yFNv_LTh9QJJOWbk3n5gi-CFzPi60_fmDJCOuC8cebBIjuaAlTRpU1zHasROTRlt0_9vb_5ASlEKXln_g02fbKUs0o24KYVBlDEwDwKNFbW_goJxI_7B7SfqI2ynP7S7Neop_pf24NDm48fohMrNDLIe2IwaudKd5rcsG2HN_QCWnvB4QdQwpEWH2grq8PUShG61KQadJu8YU0Kn7ObAK7mahnXuHgX5eK8g3DiWLnueV9d-uZMrGJ4xadG-qUJ4CQtO5IZeHDIdpRjuw3SOwqz0mRvko_-d3D7cnsFBJ8mw9iprNK3DcsHcYBiIOCgwjVpJwacEK02CP9f8.%26ch%3DAQEAEAABABTf-w04auayHf06lXc5jjlZ-MOIa1Gpgbc.%26v%3D3%26pg%3DZH4XJH5NNBCFDNBHSWTEVWESMU
+.netflix.com	TRUE	/	TRUE	1773436070	gsid	6030e8e6-0a36-456a-b3c5-bdfdf28ccdff
+.netflix.com	TRUE	/	FALSE	1773436070	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1801851063	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+06+2026+01%3A11%3A03+GMT%2B0700+(Gi%E1%BB%9D+%C4%90%C3%B4ng+D%C6%B0%C6%A1ng)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=622848c3-2f51-4fb1-963c-30c9ec0fd4ac&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

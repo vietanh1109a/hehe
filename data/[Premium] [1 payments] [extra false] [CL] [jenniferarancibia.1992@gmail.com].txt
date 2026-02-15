@@ -1,0 +1,16 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: jenniferarancibia.1992@gmail.com
+– Verified: false
+– Profile: Hernán
+– Plan: Premium
+– Next billing: 23 de febrero de 2026
+– Extra members: false
+– Country: CL
+– Payments: 1 | CC (VISA 5612)
+– Cookies: C:\Users\Administrator\Downloads\Telegram Desktop\@UP_DAISYCLOUD_CHAMPIONING!_11_FEBRUARY_5751_ON_CHANNEL\TELEGRAM-@UP_DAISYCLOUD-CLAU53NNYDQUZT7RAXLO8KDLOOB779B0X_2026_02_11T14_38_79_644336\cookies\Opera Stable_Default.txt
+
+.netflix.com	TRUE	/	TRUE	1797798928	NetflixId	ct%3DBgjHlOvcAxLmAw18vIH9yh-N201wKRWFJn-AWMwqE3kJ7-ybfeOeTnZ8Z_xs5yZNwH3VKlO5ilA4cJf-I9JGT9DYYx8Cpn0gRpmqtDdgDrCOQTp4wNS0qhPXSgx3uGNxYtMad354H3bPMh4PI6ZtsEAmi28mntOaWQcMbbBPmxwRULJwJheu12_51Um2Md0uPZC-KHeum4ORRm8YSPCyOSt6i2tZYu7usz00BshpoLpckUyjHNmyLag_aFKuekkjd1-wagl9fZQtTtmYGtM2dtmlFYCdV3IYl-vsa88NbzNroeMY1CuaW4PuQYsWH3p83REDMYM6sdCxQSD4Jzgoz2cOxQQA55ZXYi99hGOr6o9gFIxoUYqJNYLs3tt1My-Z8TDpf8vayU_WxFSK3W0arjrWyU1oe0j3Co8ZIqITBPjtKCLYYREEYrwfj97wBGpn-fDFE0O04PF9ztczvsSvekKXrLivt6B5q3PZ6uc-9JAIsC8jOI80LSc-GeB8iBVf9zpmsb-DsSscgZa8dbkY5ABm9nA8eblmSck1HGVL47OG_KomWLtrFM3lqOK2_Mpopl1QgXVl9hlw_b-m-akmt4UygXtUdgoHt0437ZPpqCpsr_G5LyTxfs3-SAkCT9TSiRlDBBHGes_eu5FA_3peCRgGIg4KDAQfI_cuS_nF3JT93g..%26ch%3DAQEAEAABABQduHDjZaCMTwwK8_1xFiyIjJbzrRJlcYg.%26v%3D3%26pg%3DQCGAFE74K5B6LE6FIX6LI3ENLU
+.netflix.com	TRUE	/	FALSE	1797798940	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+20+2025+21%3A35%3A40+GMT%2B0100+(GMT%2B01%3A00)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d0120b70-2e45-4fca-865c-e3aa34401e09&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1797798928	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ1Lpk_0Q9oTun8IkId7wNPwSRQ9IFYG_A.%26dt%3D1766266469853

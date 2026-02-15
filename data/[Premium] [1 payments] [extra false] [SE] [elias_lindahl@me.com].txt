@@ -1,0 +1,21 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: elias_lindahl@me.com
+– Verified: false
+– Profile: Aggelibagg
+– Plan: Premium
+– Next billing: 28 februari 2026
+– Extra members: false
+– Country: SE
+– Payments: 1 | CC (MASTERCARD 8434)
+– Cookies: C:\Users\Administrator\Downloads\Telegram Desktop\@UP_DAISYCLOUD_CHAMPIONING!_11_FEBRUARY_5751_ON_CHANNEL\TELEGRAM-@UP_DAISYCLOUD-SEYAXY44CAP3CYCOOUN3G9ZXEO923HX25_2026_02_11T11_84_16_840454\cookies\Microsoft Edge_Default.txt
+
+.netflix.com	TRUE	/	FALSE	1790097340	OptanonAlertBoxClosed	2025-09-22T17:15:40.976Z
+.netflix.com	TRUE	/	FALSE	1790097393	nfvdid	BQFmAAEBEFEcI4XfOrGsj8FmQ_i014NgKXM0ZT459Arkj6ltiTOis34m3CEGW-uyUQvH22kJbNpI4AzXiH15OzPkPRRsn1cqzPL-cay2YZ93lDxnf5DPj_tw9SzJslligpzd-d9leEzjOjs-ZAbjg2Awu4eBnUJ5
+.netflix.com	TRUE	/	TRUE	1801579911	NetflixId	ct%3DBgjHlOvcAxLlA6NEmXHy9EHyRhLmvLHGiimMJnAT-GAEYYXHD9wQ2qYYpwcolR6UjglXyc2isV0wgG9Jyjt2y9RMs0HaCNp9dr2lmme4ULGacrtsC01IJTEEWWmcVBc-ip5gm-yafVlDfRm4s-6Cs0-qwlJebczv-T0dXClNPTcBSwMbVwewi1P8QnQaXFLCG06UVSLV3merpxgsGq7yIJ9_rVycMmZ4aPTG06gKrX3Pn67Y9saM79Z0ccovtTzQN34cCdVRbYp85G9egciU3PbN2GIiLAPUC6unRBlgaXigSVtBQkis9t66acbJugv6Ik7i9gtGz36Z8r4MwMsgssoXizSuANIvmF3NWA1hgG_ymObsQhnVTEXUxPNLm8DM3NTcT8xXAdavh0V8mCIqmcxb05jZ5P2j4Zn31jQSazj699OkflAkcLSdFaCU5Sc1njbsH29-OGBlgbrEf8ewdx_DNKyqU4N5PI79zo4qoMSBzO9Qty9D-yrbowiCL5vG9rtueE5DpUI9JbuOPqpk7OPoLrz-V40QEsed9NrQjl93sJm2vsLHfQPmke2CjnFaHaUYXlgYkdqROHn-Eh4OYvCP4qRNNRQKSgR4LHv0J5oh7XJOxHv8KKJ14X2AFVsVE9dPMUWRqwBhkT5sVfLQGAYiDgoM0Vd7o596PHBqXapG%26ch%3DAQEAEAABABTk8CvtvSb57BrcM-KtZcFOGb-lOYBzBIY.%26v%3D3%26pg%3DBI5VN45XO5FZXOELPIUEYJ4TFI
+.netflix.com	TRUE	/	FALSE	1801579927	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+02+2026+15%3A52%3A07+GMT%2B0100+(Central+European+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4356a490-d0c7-40da-8d64-4dca5bef2733&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=SE%3BX
+.netflix.com	TRUE	/	TRUE	1801579911	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTIG5UvD2SDEZsKNwwB3uvdOTj99nwWL2o.%26dt%3D1770043910825
+.netflix.com	TRUE	/	FALSE	1804603921	dsca	customer
+.netflix.com	TRUE	/	FALSE	1777819927	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1777819927	netflix-sans-normal-3-loaded	true

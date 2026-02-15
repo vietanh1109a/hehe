@@ -1,0 +1,22 @@
+Simple Checker
+https://t.me/simplechecker_bot
+
+– Email: mantasr665@gmail.com
+– Verified: false
+– Profile: mantasr665
+– Plan: Premium
+– Next billing: March 1, 2026
+– Extra members: false
+– Country: LT
+– Payments: 1 | CC (MASTERCARD 1882)
+– Cookies: C:\Users\Administrator\Downloads\Telegram Desktop\@UP_DAISYCLOUD_CHAMPIONING!_11_FEBRUARY_5751_ON_CHANNEL\TELEGRAM-@UP_DAISYCLOUD-LTURU8MGWFY5GMQ1PYVCDN57520FJLAHQ_2026_02_11T16_36_01_873658\cookies\Opera GX_Default.txt
+
+.netflix.com	TRUE	/	FALSE	1782853303	OptanonAlertBoxClosed	2025-06-30T21:01:43.869Z
+.netflix.com	TRUE	/	FALSE	1783527937	nfvdid	BQFmAAEBEDEwM7souQ40ipdkhx-bW9lgwSwSb2PpPmQU2b7WvW_SwRzuFwyUpLtS13Rb-725ckgz5mfimwiKAW5hYSbRX-gGMDdfq0ehkt513RbyniutYwXhwDNcquYMj4Lcz3rVla7-U5FAMRKgOPOoJ4xHpkx2
+.netflix.com	TRUE	/	TRUE	1773436070	gsid	a7a75f21-007c-4355-a916-8ab975afaac1
+.netflix.com	TRUE	/	TRUE	1801520638	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL-AsJF16ITSc-1cDL-em_-7eND4ucRAObUG4epPioD7EAwUApIk4q5kZj9iMRC5QdWedadwZ7aoDBUXKR_c5LqoxyWFTUut6tvMDy7p-OsClmpl8L6HglzyPyOZDNannQoVdD3PO2KDpE3RjFwE_c3aJVF8QXlI0B2DJzr_vWPK8jiPnCfetOOaJn1QN5ifono6oBxQ4Yf5wDQ3sqwUGfgX01-np9jjA6cUiwPdj60pJpkFYPeIO50Z2uQblElVyaOxJdJvfapi8LrV9oOv7RAFZHZjxBgfnf7A9hnjNHV7kgNk9TL-0dXCAxvU_a3Nq6RPwZXLcP7M-MXnKk9fZygH3DeVxeUjENGKnoqZ1nQDjBOMrlMa9E-RDZ5bHc0WiJwxpRuFTFhOLIh2TWm0YkqiKzwWCUGTouPnP0JZKQFmLHJAY35fx57CwFhydCaEx-xZWiIP2InHEeA44dRNHNbqewRdQtiYeOdhuboUUw46FdbzJv9P65ND3xe-_0pNHEYBiIOCgyW3Vz-MO9jhRmbLs4.%26pg%3DBWG2JPQ7XRBVDFF3H37HPTOURY%26ch%3DAQEAEAABABR6wI--9flz6uVnJJTxjSlsNCLqxwv3AMY.
+.netflix.com	TRUE	/	FALSE	1801520639	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+02+2026+00%3A23%3A59+GMT%2B0200+(Ryt%C5%B3+Europos+%C5%BEiemos+laikas)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8ff588be-8133-485f-8410-a95c8d00c32b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=LT%3BKU&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801520638	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQcSctcwRiZBglvdtNIU2ni_IGebWYUiJ0.%26dt%3D1769984533156
+.netflix.com	TRUE	/	FALSE	1777760639	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1777760639	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1773436070	profilesNewSession	0
